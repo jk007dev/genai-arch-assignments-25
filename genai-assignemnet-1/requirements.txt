@@ -1,0 +1,8 @@
+langchain
+langchain-google-vertexai
+langchain-community
+langchain-exa
+mlflow
+python-dotenv
+google-cloud-aiplatform
+yfinance

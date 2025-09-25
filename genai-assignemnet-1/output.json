@@ -1,0 +1,28 @@
+{
+  "company_name": "Google",
+  "stock_code": "GOOGL",
+  "news_summary": "Recent news primarily focuses on Google's advancements in AI, particularly with its Gemini model, and its ongoing competition with other tech giants like Microsoft and OpenAI. There are reports on new AI features being integrated into Google Search and Workspace, alongside discussions on the financial implications of increased capital expenditures for AI infrastructure. Regulatory scrutiny in Europe and the US regarding its market dominance in search and advertising also continues to be a recurring theme.",
+  "sentiment": "Neutral",
+  "people_names": [
+    "Sundar Pichai",
+    "Demis Hassabis"
+  ],
+  "places_names": [
+    "Mountain View",
+    "California",
+    "Europe"
+  ],
+  "other_companies_referred": [
+    "Microsoft",
+    "OpenAI",
+    "NVIDIA"
+  ],
+  "related_industries": [
+    "Artificial Intelligence",
+    "Cloud Computing",
+    "Digital Advertising",
+    "Search Engines"
+  ],
+  "market_implications": "The significant investment in AI infrastructure signals a long-term strategic focus but may impact short-term profitability due to high costs. While AI product integrations could drive future growth, persistent regulatory challenges pose a potential risk to advertising revenue streams. The overall market position remains strong, but sentiment is mixed due to the high-stakes competitive landscape and regulatory pressures.",
+  "confidence_score": 0.85
+}
